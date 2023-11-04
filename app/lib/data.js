@@ -20,6 +20,7 @@ export const users = [
 export const posts = [
   {
     user_id: '410544b2-4001-4271-9855-fec4b6a6442a',
+    name: 'KrashMello',
     created_at: "2023-11-03T19:08:28Z",
     content: `Are your Muscles and joints aching, bruising or swelling?
 Are you facing Skin issues such as acne, Hemorrhoids, Insect bites, itching or burns?
